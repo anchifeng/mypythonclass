@@ -8,15 +8,19 @@ Watch *[my DEMO VIDEOS!]()*
 *[Assiment0]()
   * MyPhotoshop
     * image blurred
+   
 *[Assiment1]()
   * My Drawing
     * GObject drawing
+    
 *[Assiment2]()
   * Breakout Game
     * animation & game designing
+   
 *[Assiment3]()
   * Pedestrian Removing Application
     * image processing
+    
 *[Assiment4]()
   * Name Popularity Searching System
     * data structure
